@@ -1,0 +1,26 @@
+{
+  "id": "/baltazar-grill/kuhinja",
+  "name": "Baltazar · Kuhinja",
+  "short_name": "Kuhinja",
+  "description": "Portal za kuhinju — Baltazar Caffe & Grill",
+  "lang": "sr",
+  "start_url": "/baltazar-grill/kuhinja",
+  "scope": "/baltazar-grill/kuhinja",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#F6F3EC",
+  "background_color": "#F6F3EC",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

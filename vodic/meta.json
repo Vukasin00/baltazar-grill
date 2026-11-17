@@ -1,0 +1,47 @@
+{
+  "info": {
+    "id": "baltazar",
+    "guideKey": "bz-guide-done",
+    "storageKey": "baltazar-grill",
+    "fulfillments": [
+      "delivery",
+      "pickup"
+    ],
+    "sizes": 15,
+    "name": "Baltazar Caffe & Grill",
+    "address": "Makenzijeva 78a, Beograd",
+    "phone": "065 245 4768",
+    "hours": "Vračar non-stop · Voždovac 09–01 · Zvezdara 07–24, pet–sub do 01",
+    "instagram": "https://www.instagram.com/baltazar_vracar/",
+    "logo": "logo.png",
+    "deliveryFee": 0,
+    "cardPayment": [],
+    "locations": 3,
+    "categories": 16,
+    "menu": "static",
+    "menuItems": 131,
+    "closedToday": false,
+    "soldOutToday": [],
+    "orders": "local",
+    "tenantPath": "baltazar",
+    "emulator": false
+  },
+  "style": {
+    "bg": "#1B1B1B",
+    "card": "#262626",
+    "inset": "#212121",
+    "line": "#3A3A3A",
+    "primary": "#C4A25E",
+    "onPrimary": "#1B1B1B",
+    "dark": "#F8F6F0",
+    "dark2": "#FFFFFF",
+    "cta": "#017553",
+    "ink": "#F8F6F0",
+    "ink2": "#BFBAB0",
+    "font": "\"Abril Fatface\", \"Playfair Display\", Georgia, serif",
+    "tracking": "0.01em",
+    "case": "none",
+    "weight": "400",
+    "scale": "0.8"
+  }
+}
